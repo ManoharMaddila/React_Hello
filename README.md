@@ -30,6 +30,11 @@ hello-react/ ├── src/ │ ├── App.jsx │ └── main.jsx ├─�
 
 ✅ Output
 When the app runs successfully, the browser will display:
+
+
+
+
+
 <img width="526" height="271" alt="Screenshot 2025-09-20 105729" src="https://github.com/user-attachments/assets/1153fda3-6795-47d5-b8f5-3e6802a3f085" />
 
 
